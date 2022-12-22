@@ -1,9 +1,6 @@
 #!/bin/bash
 
-if ! hugo; then
-    exit 1
-fi
-
+hugo
 git add -A
 git commit -m 'Update site'
 git push origin main
