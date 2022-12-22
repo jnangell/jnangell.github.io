@@ -36,7 +36,7 @@ theme = "loveit"
     [params.home.profile]
       enable = false
     [params.home.posts]
-      enable = false
+      enable = true
     [params.social]
       # Googlescholar = ""
       Phone = "(484) 843-0581"

@@ -2,6 +2,7 @@
 title: "Photos"
 date: 2022-12-22T13:10:41-05:00
 draft: false
+hiddenFromHomePage: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula luctus sapien, et pellentesque enim maximus sed. Aenean facilisis dolor tortor, sit amet consequat elit tincidunt a. Vestibulum bibendum neque in purus imperdiet finibus. Suspendisse sit amet orci ut nibh ultricies vulputate. Phasellus eu massa lectus. Sed suscipit velit sit amet diam consectetur, sed pretium libero efficitur. Sed facilisis sapien at dui venenatis convallis.
