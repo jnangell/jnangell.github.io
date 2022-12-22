@@ -1,0 +1,5 @@
+baseURL = "https://www.joshuaangell.com/"
+languageCode = "en-us"
+title = "Joshua Angell"
+publishDir = "docs"
+theme = "loveit"
