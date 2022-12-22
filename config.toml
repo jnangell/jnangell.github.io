@@ -34,7 +34,7 @@ theme = "loveit"
   # Home page config
   [params.home]
     [params.home.profile]
-      enable = true
+      enable = false
     [params.home.posts]
       enable = false
     [params.social]
