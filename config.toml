@@ -41,3 +41,7 @@ theme = "loveit"
       # Googlescholar = ""
       Phone = "(484) 843-0581"
       Email = "joshuanangell@gmail.com"
+
+  [params.header]
+    [params.header.title]
+      name = "Joshua Angell"
