@@ -18,9 +18,9 @@ theme = "loveit"
     url = "/research/"
   [[menu.main]]
     weight = 3
-    identifier = "About Me"
+    identifier = "about"
     name = "About Me"
-    url = "/about_me/"
+    url = "/about/"
   [[menu.main]]
     weight = 4
     identifier = "photos"
