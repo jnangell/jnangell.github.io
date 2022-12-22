@@ -18,7 +18,7 @@ theme = "loveit"
     url = "/research/"
   [[menu.main]]
     weight = 3
-    identifier = "about_me"
+    identifier = "About Me"
     name = "About Me"
     url = "/about_me/"
   [[menu.main]]
@@ -26,3 +26,18 @@ theme = "loveit"
     identifier = "photos"
     name = "Photos"
     url = "/photos/"
+
+[params]
+  defaultTheme = "auto"
+  title = "Joshua Angell"
+
+  # Home page config
+  [params.home]
+    [params.home.profile]
+      enable = false
+    [params.home.posts]
+      enable = false
+    [params.social]
+      # Googlescholar = ""
+      Phone = "(484) 843-0581"
+      Email = "joshuanangell@gmail.com"
